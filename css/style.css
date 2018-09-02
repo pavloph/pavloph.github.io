@@ -41,6 +41,8 @@ header {
 	margin-top: 33px;
 	border: 0px;
 	cursor: pointer;
+	display: inline-block;
+	text-decoration: none;
 }
 
 small {
@@ -160,6 +162,7 @@ footer {
 	font-size: 18px;
 	padding: 12px 40px;
 	cursor: pointer;
+	text-decoration: none;
 }
 
 @media (max-width: 1200px) {
